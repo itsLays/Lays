@@ -1,10 +1,10 @@
-## Hi, Im Unsight <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hello, my name is Unsight <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 </br>
 
-- 🔭 I'm currently working on [@TournamentRIP](https://github.com/TournamentRIP) and [@TheCraftRIP](https://github.com/orgs/TheCraftRIP).  
-- 🌱 Im currently 19 years old.  
-- 📫 How to reach me here; Telegram (@Unsight) or Discord (Lays#1000)
+- 🔭 I currently Own [@TournamentRIP](https://github.com/TournamentRIP) and [@TheCraftRIP](https://github.com/orgs/TheCraftRIP).  
+- 🌱 I am 19 years of age, going on 20.  
+- 📫 You can reach me here; Telegram (@Unsight) or Discord (Lays#1000)
 
 </br>
 
