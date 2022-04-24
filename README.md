@@ -2,7 +2,7 @@
 
 </br>
 
-- 🔭 I currently Own [@TournamentRIP](https://github.com/TournamentRIP) and [@TheCraftRIP](https://github.com/orgs/TheCraftRIP).  
+- 🔭 I currently Own [@TournamentRIP](https://github.com/TournamentRIP)
 - 🌱 I am 19 years of age, going on 20.  
 - 📫 You can reach me here; Telegram (@Unsight) or Discord (Lays#1000)
 
