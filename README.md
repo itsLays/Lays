@@ -3,7 +3,7 @@
 </br>
 
 - 🔭 I currently Own [@TournamentRIP](https://github.com/TournamentRIP)
-- 🌱 I am 19 years of age, going on 20.  
+- 🌱 I am 20 years of age, half way to the end.  
 - 📫 You can reach me here; Telegram (@Unsight) or Discord (Lays#1000)
 
 </br>
@@ -14,7 +14,7 @@
 
 <img align="left" alt="itsLays" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/> Lays#1000
 
-</br><img align="left" alt="itsLays" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/> GG_Lays
+</br><img align="left" alt="itsLays" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/> NYV_Lays
 
 </br>
 
