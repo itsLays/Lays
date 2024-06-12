@@ -3,8 +3,8 @@
 </br>
 
 - 🔭 I currently Own [@TournamentRIP](https://github.com/TournamentRIP) And [@ValorRIP](https://github.com/ValorRIP)
-- 🌱 I am 20 years of age, half way to the end.  
-- 📫 You can reach me here; Telegram (@Unsight) or Discord (Lays#1000)
+- 🌱 I am 22 years of age, half way to the end.  
+- 📫 You can reach me here; Telegram (@Unsight) or Discord (laysxd)
 
 </br>
 
